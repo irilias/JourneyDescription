@@ -1,7 +1,7 @@
 # JourneyDescription
 
 
-Test Case : Do post request to /api/BoardingCards endpoint with the following :
+Test Case : Do a post request to /api/BoardingCards endpoint with the following :
 ```javascript
 [{
         "transporationId": "SK22",
