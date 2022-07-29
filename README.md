@@ -2,6 +2,7 @@
 
 
 Test Case : Do post request to /api/BoardingCards endpoint with the following :
+```javascript
 [{
         "transporationId": "SK22",
         "transporationType": "flight",
@@ -30,3 +31,4 @@ Test Case : Do post request to /api/BoardingCards endpoint with the following :
         "seatNumber": "45B"
 	}
 ]
+```
